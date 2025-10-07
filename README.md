@@ -95,16 +95,16 @@ main.exe
 Navega pelo menu e testa todas as funcionalidades disponíveis.
 - 🖼️ Exemplo de Execução
 
-<img width="884" height="519" alt="image" src="https://github.com/user-attachments/assets/c0306801-37e3-4495-8403-01ec6b0bc24b" />
-<img width="863" height="512" alt="image" src="https://github.com/user-attachments/assets/b4658a09-e0ca-4309-aabe-2bc10fefd165" />
-<img width="920" height="513" alt="image" src="https://github.com/user-attachments/assets/3bd015f2-e983-4877-920a-e561c021ec0b" />
-<img width="653" height="477" alt="image" src="https://github.com/user-attachments/assets/ea151f9d-db72-4b41-a3ce-5dfe93f36f42" />
+* <img width="884" height="519" alt="image" src="https://github.com/user-attachments/assets/c0306801-37e3-4495-8403-01ec6b0bc24b" />
+* <img width="863" height="512" alt="image" src="https://github.com/user-attachments/assets/b4658a09-e0ca-4309-aabe-2bc10fefd165" />
+* <img width="920" height="513" alt="image" src="https://github.com/user-attachments/assets/3bd015f2-e983-4877-920a-e561c021ec0b" />
+* <img width="653" height="477" alt="image" src="https://github.com/user-attachments/assets/ea151f9d-db72-4b41-a3ce-5dfe93f36f42" />
 
 ## 📈 Melhorias Futuras
-✅ Adicionar suporte a mais destinos e horários
-✅ Guardar histórico de compras dos utilizadores
-✅ Interface gráfica simples com GTK ou ncurses
-✅ Implementar persistência de dados mais avançada com ficheiros binários
+* ✅ Adicionar suporte a mais destinos e horários
+* ✅ Guardar histórico de compras dos utilizadores
+* ✅ Interface gráfica simples com GTK ou ncurses
+* ✅ Implementar persistência de dados mais avançada com ficheiros binários
 
 ## 📌 Considerações Finais
 Lisbon Bus Voyage é um projeto educativo que combina lógica de programação, modularidade e gestão de dados.
