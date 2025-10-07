@@ -1,0 +1,60 @@
+Nome: rocha
+Destino: Braga
+Distância até ao destino: 320 km
+Nº Lugar: 1
+Horário de partida: 12
+Total a pagar: 14.99€
+--------------------------
+
+Nome: rocha
+Destino: Castelo Branco
+Distância até ao destino: 230 km
+Nº Lugar: 23
+Horário de partida: 12h
+Total a pagar: 7.99€
+
+--------------------------
+
+Nome: rocha
+Destino: Braga
+Distância até ao destino: 320 km
+Nº Lugar: 1
+Horário de partida: 12h
+Total a pagar: 11.99€
+
+--------------------------
+
+Nome: ines
+Destino: Castelo Branco
+Distância até ao destino: 230 km
+Nº Lugar: 12
+Horário de partida: 12h
+Total a pagar: 7.99€
+
+--------------------------
+
+Nome: pilas
+Destino: Braga
+Distância até ao destino: 320 km
+Nº Lugar: 25
+Horário de partida: 12
+Total a pagar: 14.99€
+--------------------------
+
+Nome: pilas
+Destino: Bragança
+Distância até ao destino: 560 km
+Nº Lugar: 2
+Horário de partida: 12h
+Total a pagar: 13.59€
+
+--------------------------
+
+Nome: rocha
+Destino: Bragança
+Distância até ao destino: 560 km
+Nº Lugar: 2
+Horário de partida: 12h
+Total a pagar: 16.99€
+--------------------------
+

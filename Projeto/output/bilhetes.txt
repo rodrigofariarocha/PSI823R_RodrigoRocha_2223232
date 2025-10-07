@@ -1,0 +1,8 @@
+Nome: rocha
+Destino: Viseu
+Distância até ao destino: 240 km
+Nº Lugar: 12
+Horário de partida: 12h
+Total a pagar: 9.99€
+--------------------------
+
