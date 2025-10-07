@@ -93,7 +93,8 @@ main.exe
 
 9. Explorar
 Navega pelo menu e testa todas as funcionalidades disponíveis.
-- 🖼️ Exemplo de Execução
+
+## 🖼️ Exemplo de Execução
 
 * <img width="884" height="519" alt="image" src="https://github.com/user-attachments/assets/c0306801-37e3-4495-8403-01ec6b0bc24b" />
 * <img width="863" height="512" alt="image" src="https://github.com/user-attachments/assets/b4658a09-e0ca-4309-aabe-2bc10fefd165" />
