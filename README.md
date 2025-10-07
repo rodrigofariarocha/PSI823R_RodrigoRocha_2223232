@@ -1,64 +1,116 @@
-🚌 Lisbon Bus Voyage
-📖 Descrição
+# 🚌 Lisbon Bus Voyage
 
-O Lisbon Bus Voyage é um projeto desenvolvido em linguagem C durante o primeiro ano do curso, com o objetivo de simular um sistema de bilheteira de autocarros.
-Permite ao utilizador consultar horários, escolher destinos, efetuar compras de bilhetes e gerir lugares disponíveis em cada viagem.
+**Lisbon Bus Voyage** é uma aplicação desenvolvida em **C**, concebida para simular um sistema de **bilheteira de autocarros**, permitindo ao utilizador comprar bilhetes, consultar horários, escolher destinos e gerir lugares disponíveis.
 
-O projeto foi criado com foco no raciocínio lógico, estruturas de controlo e gestão de dados em memória, sendo um exercício prático para consolidar os fundamentos da programação em C.
+📅 **Versão:** 1.0  
+🧑‍💻 **Autor:** Rodrigo Faria Rocha  
+📍 **Projeto de 1º Ano – C Programming**
 
-🧠 Objetivos de Aprendizagem
+---
 
-Aplicar os conceitos básicos da linguagem C.
+## 📚 Índice
 
-Trabalhar com estruturas condicionais, ciclos e arrays.
+- [🧠 Descrição Geral](#-descrição-geral)
+- [⚙️ Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [🗃️ Estrutura do Projeto](#-estrutura-do-projeto)
+- [🧭 Funcionalidades Principais](#-funcionalidades-principais)
+- [🧪 Requisitos do Sistema](#-requisitos-do-sistema)
+- [👨‍💻 Instruções para Programadores](#-instruções-para-programadores)
+- [🖼️ Exemplo de Execução](#-exemplo-de-execução)
+- [📌 Considerações Finais](#-considerações-finais)
 
-Implementar um sistema simples de armazenamento e validação de dados.
+---
 
-Desenvolver a capacidade de estruturar um programa modular e legível.
+## 🧠 Descrição Geral
 
-⚙️ Funcionalidades
+Lisbon Bus Voyage permite ao utilizador:
 
-🕒 Consulta de horários e destinos disponíveis
+* Consultar horários e destinos disponíveis  
+* Escolher destinos e número de bilhetes  
+* Verificar disponibilidade de lugares  
+* Comprar bilhetes com cálculo automático de preços  
+* Visualizar informações detalhadas de cada viagem  
 
-🎫 Compra de bilhetes (com validação de lugares e destino)
+### Destaque:
 
-💺 Gestão de lugares disponíveis em cada autocarro
+> Um projeto educativo para consolidar os fundamentos de programação em C, lógica, estruturas de dados e modularidade.
 
-💰 Cálculo automático do preço da viagem
+---
 
-🔄 Possibilidade de visualizar e reiniciar viagens
+## ⚙️ Tecnologias Utilizadas
 
-🧩 Estrutura do Projeto
-LisbonBusVoyage/
-│
-├── main.c             # Ficheiro principal com o menu e execução
-├── funcoes.c          # Funções auxiliares do sistema
-├── funcoes.h          # Cabeçalho com protótipos das funções
-├── README.md          # Descrição do projeto
-└── dados.txt          # (Opcional) Ficheiro de simulação de dados
+* Linguagem **C**  
+* Compilador **GCC**  
+* Ambiente de desenvolvimento: **Code::Blocks / Visual Studio Code**  
+* Estruturas básicas: arrays, ciclos, funções e condicionais  
 
-💻 Tecnologias Utilizadas
+---
 
-Linguagem C
+## 🗃️ Estrutura do Projeto
 
-Compilador GCC
+Organizado em ficheiros modulares:
 
-Ambiente de desenvolvimento: Code::Blocks / Visual Studio Code
+* `main.c` – Menu principal e execução  
+* `funcoes.c` – Funções auxiliares (gestão de bilhetes, preços, lugares)  
+* `funcoes.h` – Cabeçalho com protótipos das funções  
+* `README.md` – Documentação do projeto  
+* `dados.txt` – (Opcional) Dados de exemplo de lugares e viagens  
 
-🚀 Como Executar
+---
 
-Clona o repositório:
+## 🧭 Funcionalidades Principais
 
-git clone https://github.com/rodrigorocha/LisbonBusVoyage.git
+* 🕒 Consulta de horários e destinos  
+* 🎫 Compra de bilhetes com validação de lugares  
+* 💺 Gestão de lugares disponíveis por autocarro  
+* 💰 Cálculo automático do preço da viagem  
+* 🔄 Possibilidade de reiniciar o processo e ver viagens disponíveis  
 
+---
 
-Abre o projeto no teu ambiente preferido (Code::Blocks, VS Code, etc.).
+## 🧪 Requisitos do Sistema
 
-Compila o programa:
+* Sistema Operativo: **Windows / Linux**  
+* Compilador de C (GCC recomendado)  
+* Ambiente de desenvolvimento compatível com C  
+* Espaço em disco: aproximadamente **10 MB**
 
+---
+
+## 👨‍💻 Instruções para Programadores
+
+1. Clonar o repositório:
+   ```bash
+   git clone https://github.com/rodrigorocha/LisbonBusVoyage.git
+Abrir o projeto no Code::Blocks ou outro IDE.
+
+Compilar o programa:
+
+bash
+Copiar código
 gcc main.c funcoes.c -o LisbonBusVoyage
+Executar:
 
-
-Executa:
-
+bash
+Copiar código
 ./LisbonBusVoyage
+Explorar o menu e testar funcionalidades.
+
+🖼️ Exemplo de Execução
+yaml
+Copiar código
+Bem-vindo ao Lisbon Bus Voyage!
+Escolha o seu destino:
+1 - Lisboa -> Porto
+2 - Lisboa -> Coimbra
+3 - Lisboa -> Faro
+Escolha o destino: 2
+
+Número de bilhetes: 3
+Preço total: 30€
+
+Confirma a compra? (S/N): S
+Compra realizada com sucesso! Obrigado por viajar connosco.
+📌 Considerações Finais
+Lisbon Bus Voyage é um projeto educativo que combina lógica de programação, modularidade e gestão de dados.
+Permite ao utilizador interagir com um sistema realista de bilheteira, enquanto consolida os conhecimentos fundamentais em linguagem C.
