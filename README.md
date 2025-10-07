@@ -78,7 +78,7 @@ Organizado em ficheiros modulares:
 
 ---
 
-👨‍💻 Instruções para Programadores
+## 👨‍💻 Instruções para Programadores
 1. Clonar o repositório:
 bash
 Copy
