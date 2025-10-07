@@ -78,28 +78,26 @@ Organizado em ficheiros modulares:
 
 ---
 
-## 👨‍💻 Instruções para Programadores
-
+👨‍💻 Instruções para Programadores
 1. Clonar o repositório:
-   ```bash
-   git clone https://github.com/rodrigorocha/LisbonBusVoyage.git
-Abrir o projeto no Code::Blocks ou outro IDE compatível.
-
-Compilar o programa:
-
 bash
-Copiar código
+Copy
+git clone https://github.com/rodrigorocha/LisbonBusVoyage.git
+2. Abrir o projeto
+Abrir o projeto no Code::Blocks ou outro IDE compatível com C.
+3. Compilar o programa:
+bash
+Copy
 gcc main.c funcoes.c -o LisbonBusVoyage
-Executar:
-
+4. Executar:
 bash
-Copiar código
+Copy
 ./LisbonBusVoyage
-Explorar o menu e testar todas as funcionalidades.
-
+5. Explorar
+Navega pelo menu e testa todas as funcionalidades disponíveis.
 🖼️ Exemplo de Execução
 yaml
-Copiar código
+Copy
 Bem-vindo ao Lisbon Bus Voyage!
 Escolha o seu destino:
 1 - Lisboa -> Porto
@@ -113,16 +111,13 @@ Preço total: 30€
 Confirma a compra? (S/N): S
 Compra realizada com sucesso! Obrigado por viajar connosco.
 📈 Melhorias Futuras
-Adicionar suporte a mais destinos e horários
-
-Guardar histórico de compras dos utilizadores
-
-Interface gráfica simples com GTK ou ncurses
-
-Implementar persistência de dados mais avançada com ficheiros binários
+✅ Adicionar suporte a mais destinos e horários
+✅ Guardar histórico de compras dos utilizadores
+✅ Interface gráfica simples com GTK ou ncurses
+✅ Implementar persistência de dados mais avançada com ficheiros binários
 
 ## 📌 Considerações Finais
 Lisbon Bus Voyage é um projeto educativo que combina lógica de programação, modularidade e gestão de dados.
-Permite ao utilizador interagir com um sistema realista de bilheteira, enquanto consolida conhecimentos fundamentais em linguagem C.
-
-Aprender programação é mais eficaz quando aplicamos os conceitos em projetos reais. Lisbon Bus Voyage oferece essa experiência de forma prática e divertida.
+Permite ao utilizador interagir com um sistema realista de bilheteira, ao mesmo tempo que consolida conhecimentos fundamentais em linguagem C.
+Aprender programação é mais eficaz quando aplicamos os conceitos em projetos reais.
+Lisbon Bus Voyage oferece essa experiência de forma prática e divertida.
