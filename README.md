@@ -80,37 +80,27 @@ Organizado em ficheiros modulares:
 
 ## 👨‍💻 Instruções para Programadores
 1. Clonar o repositório:
-bash
-Copy
 git clone https://github.com/rodrigorocha/LisbonBusVoyage.git
-2. Abrir o projeto
+
+3. Abrir o projeto
 Abrir o projeto no Code::Blocks ou outro IDE compatível com C.
-3. Compilar o programa:
-bash
-Copy
+
+5. Compilar o programa:
 gcc main.c funcoes.c -o LisbonBusVoyage
-4. Executar:
-bash
-Copy
-./LisbonBusVoyage
-5. Explorar
+
+7. Executar:
+main.exe
+
+9. Explorar
 Navega pelo menu e testa todas as funcionalidades disponíveis.
-🖼️ Exemplo de Execução
-yaml
-Copy
-Bem-vindo ao Lisbon Bus Voyage!
-Escolha o seu destino:
-1 - Lisboa -> Porto
-2 - Lisboa -> Coimbra
-3 - Lisboa -> Faro
-Escolha o destino: 2
+- 🖼️ Exemplo de Execução
 
-Número de bilhetes: 3
-Preço total: 30€
+<img width="884" height="519" alt="image" src="https://github.com/user-attachments/assets/c0306801-37e3-4495-8403-01ec6b0bc24b" />
+<img width="863" height="512" alt="image" src="https://github.com/user-attachments/assets/b4658a09-e0ca-4309-aabe-2bc10fefd165" />
+<img width="920" height="513" alt="image" src="https://github.com/user-attachments/assets/3bd015f2-e983-4877-920a-e561c021ec0b" />
+<img width="653" height="477" alt="image" src="https://github.com/user-attachments/assets/ea151f9d-db72-4b41-a3ce-5dfe93f36f42" />
 
-Confirma a compra? (S/N): S
-Compra realizada com sucesso! Obrigado por viajar connosco.
-📈 Melhorias Futuras
+## 📈 Melhorias Futuras
 ✅ Adicionar suporte a mais destinos e horários
 ✅ Guardar histórico de compras dos utilizadores
 ✅ Interface gráfica simples com GTK ou ncurses
